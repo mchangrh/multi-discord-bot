@@ -1,0 +1,15 @@
+{
+  "name": "multi-discord-bot",
+  "version": "1.0.0",
+  "description": "discord bot for all my useless bots",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Chang <michael@mchang.name>",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "dotenv": "^10.0.0"
+  }
+}
