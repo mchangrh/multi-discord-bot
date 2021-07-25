@@ -6,8 +6,16 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mchangrh/multi-discord-bot.git"
+  },
   "author": "Michael Chang <michael@mchang.name>",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mchangrh/multi-discord-bot/issues"
+  },
+  "homepage": "https://github.com/mchangrh/multi-discord-bot#readme",
   "dependencies": {
     "discord.js": "^12.5.3",
     "dotenv": "^10.0.0"
